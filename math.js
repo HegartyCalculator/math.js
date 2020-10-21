@@ -1,5 +1,7 @@
-// math.js
+const define_script = require('./src/define.js');
 
-var testModule = require('./src/module.js')
+function solve(){
+    out = define_script.split("2 + 2");
+}
 
-testModule.test();
+solve();
