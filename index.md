@@ -7,6 +7,8 @@
     - [In the Browser](#browser)
     - [In node](#node)
 - [Usage](#usage)
+    - [Solve](#solve)
+    - [Simplify](#simplify)
 
 # <a name="gettingstarted"></a> Get Started
 ## <a name="setup"></a> Setup
