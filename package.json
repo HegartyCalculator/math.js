@@ -1,0 +1,28 @@
+{
+  "name": "mathjs",
+  "version": "0.1.0",
+  "description": "Mathematics library for solving anything mathematical.",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HegartyCalculator/math.js.git"
+  },
+  "keywords": [
+    "math",
+    "math.js",
+    "algebra"
+  ],
+  "author": "Seggys116/Ulferno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HegartyCalculator/math.js/issues"
+  },
+  "homepage": "https://github.com/HegartyCalculator/math.js#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "uglify-js": "github:mishoo/UglifyJS2#harmony"
+  }
+}
